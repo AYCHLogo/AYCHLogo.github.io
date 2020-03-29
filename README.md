@@ -2,7 +2,7 @@
 
 <img src="./aych.png" width="100"/>
 
-Slogan: generate logo for open-source projects ♨️ 👉 https://egoist.github.io/slogan
+Slogan: generate logo for open-source projects https://aychlogo.github.io/slogan
 
 ## Who's using this?
 
@@ -13,4 +13,4 @@ Slogan: generate logo for open-source projects ♨️ 👉 https://egoist.github
 
 ## License
 
-MIT &copy; [EGOIST](https://github.com/aychlogo)
+MIT, AGPL &copy; [AYCHLogo](https://github.com/aychlogo)
