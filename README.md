@@ -1,8 +1,8 @@
-# slogan
+# AYCHLogo
 
 <img src="./aych.png" width="100"/>
 
-Slogan: generate logo for open-source projects https://aychlogo.github.io/slogan
+Title: generate logo for open-source projects https://aychlogo.github.io/slogan
 
 ## Who's using this?
 
